@@ -92,15 +92,15 @@ There are two levels of tasks, Level 1 and Level 2, and ofcourse Level 2 is toug
 <details>
 <summary id="ui-enhancements">7. UI Enhancements</summary>
 
-### Hover States:
+### 7.1 Hover States:
 - Enhance the user interface by providing visual feedback when users hover over interactive elements.
 
 ![Demo Modal Task Image](src/assets/hover-effect-demo.png)
 
-### Responsive Design:
+### 7.2 Responsive Design:
 - Ensure the app is responsive and looks good on all screen sizes.
 
-### UI Improvements:
+### 7.3 UI Improvements:
 - Add any additional UI improvements you deem necessary.
 
 </details>
@@ -147,6 +147,7 @@ There are two levels of tasks, Level 1 and Level 2, and ofcourse Level 2 is toug
 - Add the New Repository as a Remote.
 - Push the cloned repository's code to the new private repository.
 - Implement the tasks.
+- Give "achalagarwal.01[at]gmail.com" access to the Repository.
 
 
 If you face any difficulty to understand the points while attempting the assignment, feel free to contact us....
