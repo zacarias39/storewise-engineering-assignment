@@ -1,3 +1,6 @@
+## If you get a "vite not recognized" error when running "npm run dev"
+ run: "npm i vite" that will fix the problem - by Zacarias Casimiro.
+
 # Personal Task Management App
 
 This project is a simple task management application built with React and Vite. The app allows users to create, read, update, and delete tasks. This project is intended as a mini-project assignment for you, applying for a software developer role at Storewise. The basic UI is provided, and you are expected to implement some functionalities which are listed below.
@@ -16,8 +19,7 @@ This project is a simple task management application built with React and Vite. 
    git clone https://github.com/achalagarwal/storewise-engineering-assignment.git
    cd personal-task-management-app
 
-### If you get a "vite not recognized" error when running "npm run dev"
- run: "npm i vite" that will fix the problem - by Zacarias Casimiro.
+
 
 # Candidate Tasks
 
