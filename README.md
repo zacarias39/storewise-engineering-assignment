@@ -17,8 +17,7 @@ This project is a simple task management application built with React and Vite. 
    cd personal-task-management-app
 
 ### If you get a "vite not recognized" error when running "npm run dev"
- run: npm i vite
- It will fix the problem - by Zacarias Casimiro.
+ run: "npm i vite" that will fix the problem - by Zacarias Casimiro.
 
 # Candidate Tasks
 
